@@ -1,0 +1,9 @@
+/*/target/
+/*/*/target/
+/*/.idea
+*.iml
+.DS_Store
+*.jar
+/*/runner/
+/AsteroidsNetbeansModules/Bullet/nbproject/
+/AsteroidsLibGDX/nbproject/
