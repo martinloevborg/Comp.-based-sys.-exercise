@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="enemyBean1" class="dk.sdu.mmmi.cbse.enemy1.EnemyControlSystem" />
+        <bean id="enemyBean2" class="dk.sdu.mmmi.cbse.enemy1.EnemyPlugin" />
+</beans>
+
+<root>
+    
+</root>
